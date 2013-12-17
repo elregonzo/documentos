@@ -1,0 +1,59 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="999" measuredH="879" mockupW="841" mockupH="835">
+  <controls>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::TabBar" x="158" y="148" w="841" h="672" measuredW="782" measuredH="100" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <selectedIndex>1</selectedIndex>
+        <text>1.%20Emergencias%2C2.%20Emergencias%2C%203.%20Eventos%2C%204.%20Personas%20Fallecidas.%2C%205.%20Cantidad%20de%20Personas.%2C6.%20V%EDas%20por%20Departamento%2C...</text>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::Image" x="213" y="367" w="-1" h="-1" measuredW="739" measuredH="287" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../../Documents/Presentacion%2520Requerimientos/ReporteDiarioTotal2.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::Button" x="849" y="852" w="-1" h="-1" measuredW="126" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Exportar%20Reporte</text>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::ButtonBar" x="718" y="852" w="-1" h="-1" measuredW="102" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Pdf%2C%20Excel</text>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Arrow" x="296" y="102" w="50" h="30" measuredW="150" measuredH="100" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <curvature>1</curvature>
+        <direction>bottom</direction>
+        <rightArrow>false</rightArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::Title" x="447" y="44" w="-1" h="-1" measuredW="262" measuredH="43" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2101837</color>
+        <text>Reporte%20Diario</text>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Label" x="740" y="107" w="-1" h="-1" measuredW="69" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Temporada%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::ComboBox" x="818" y="105" w="-1" h="-1" measuredW="152" measuredH="24" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Emergencias%20totales</text>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::SubTitle" x="388" y="218" w="-1" h="-1" measuredW="361" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>1.%20Resumen%20Emergencias%20Totales</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::HelpButton" x="974" y="108" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="9" locked="false" isInGroup="-1"/>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::HelpButton" x="979" y="856" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="10" locked="false" isInGroup="-1"/>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::HelpButton" x="824" y="855" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="11" locked="false" isInGroup="-1"/>
+  </controls>
+</mockup>

@@ -1,0 +1,30 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="979" measuredH="609" mockupW="541" mockupH="599">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Title" x="555" y="10" w="-1" h="-1" measuredW="313" measuredH="43" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Reporte%20Especial</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::ButtonBar" x="564" y="117" w="-1" h="-1" measuredW="196" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Totales%2C%20Columna%20Anclada</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="456" y="120" w="-1" h="-1" measuredW="99" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Tipo%20de%20Reporte%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::DataGrid" x="438" y="280" w="541" h="329" measuredW="249" measuredH="321" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Nombre%20Campo%20%5Ev%2CCantidad%20%5Ev%0ADepartamentos%20Afectados%2C%2032%0AMunicipios%20Afectados%2C%20876%0AEventos%20Presentados%2C%203.869%0APersonas%20Fallecidas%2C%20408%0APersonas%20Heridas%2C%201.925%0APersonas%20Desaparecidas%2C72%0APersonas%2C566.771%0AFamilias%2C115.745%0AViviendas%20Destru%EDdas%2C2.871%0AViviendas%20Averiadas%2C70.051</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::HelpButton" x="769" y="121" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="5" locked="false" isInGroup="-1"/>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Accordion" x="438" y="68" w="541" h="169" measuredW="150" measuredH="159" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Tipo%20de%20Reporte%0ALista%20de%20Criterios%0ASelecci%F3n%20de%20Columnas</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

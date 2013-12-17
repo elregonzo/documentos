@@ -1,0 +1,53 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="979" measuredH="668" mockupW="541" mockupH="658">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Title" x="555" y="10" w="-1" h="-1" measuredW="313" measuredH="43" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Reporte%20Especial</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::DataGrid" x="438" y="280" w="541" h="329" measuredW="489" measuredH="321" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Evento%20%5Ev%2CFallecidos%20%5Ev%2C%20Heridos%20%5Ev%2C%20Desaparecidos%20%5Ev%2C%20Familias%20%5Ev%0AAccidente%2C%2032%2C12%2C11%2C10%0AAccidente%20Minero%2C%20876%2C113%2C111%2C100%0AAccidente%20A%E9reo%2C%203.869%2C120%2C115%2C120%0AAccidente%20De%20Tr%E1nsito%2C%20408%2C12%2C1561%2C105%0AAccidente%20Mar%EDtimo%2C%201.925%2C12%2C1751%2C160%0AAvalancha%2C72%2C192%2C181%2C150%0AColapso%2C566.771%2C102%2C112%2C110%0AContaminaci%F3n%2C115.745%2C112%2C91%2C102%0ACreciente%20S%FAbita%2C2.871%2C136%2C93%2C45%0ADerrame%20Hidrocarburos%2C70.051%2C137%2C84%2C56</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Accordion" x="438" y="84" w="541" h="175" measuredW="150" measuredH="159" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Tipo%20de%20Reporte%0ALista%20de%20Criterios%0ASelecci%F3n%20de%20Columnas</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="468" y="130" w="-1" h="-1" measuredW="99" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Tipo%20de%20Reporte%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::ButtonBar" x="710" y="127" w="-1" h="-1" measuredW="196" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>1</selectedIndex>
+        <text>Totales%2C%20Columna%20Anclada</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::HelpButton" x="915" y="131" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="5" locked="false" isInGroup="-1"/>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="831" y="641" w="-1" h="-1" measuredW="126" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Exportar%20Reporte</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::ButtonBar" x="688" y="641" w="-1" h="-1" measuredW="102" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Pdf%2C%20Excel</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::HelpButton" x="792" y="644" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="8" locked="false" isInGroup="-1"/>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::HelpButton" x="959" y="643" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="9" locked="false" isInGroup="-1"/>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Label" x="468" y="168" w="-1" h="-1" measuredW="104" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Columna%20a%20anclar</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::ComboBox" x="827" y="165" w="-1" h="-1" measuredW="79" measuredH="24" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Eventos</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
