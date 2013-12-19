@@ -1,14 +1,8 @@
-<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1633" measuredH="539" mockupW="1392" mockupH="523">
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1633" measuredH="447" mockupW="1392" mockupH="431">
   <controls>
     <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="634" y="22" w="-1" h="-1" measuredW="191" measuredH="27" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Ingreso%20De%20Datos</text>
-      </controlProperties>
-    </control>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::Accordion" x="241" y="80" w="1056" h="410" measuredW="241" measuredH="294" zOrder="1" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Descripci%F3n%20y%20Ubicaci%F3n%0AAfectaci%F3n%0AApoyo%20Del%20F.N.G.R.D%0ASeguimiento%20y%20Control%20a%20la%20Emergencia%0AMateriales%20De%20Construcci%F3n%0AGiro%20Directo%0ASeguimiento%20Contractual%0ABit%E1cora</text>
-        <verticalScrollbar>true</verticalScrollbar>
       </controlProperties>
     </control>
     <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="885" y="140" w="-1" h="-1" measuredW="82" measuredH="21" zOrder="2" locked="false" isInGroup="-1">
@@ -85,9 +79,9 @@
         <text>La%20Belleza</text>
       </controlProperties>
     </control>
-    <control controlID="19" controlTypeID="com.balsamiq.mockups::Button" x="1126" y="512" w="142" h="27" measuredW="131" measuredH="27" zOrder="14" locked="false" isInGroup="-1">
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Button" x="1124" y="420" w="142" h="27" measuredW="71" measuredH="27" zOrder="14" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Crear%20Emergencia</text>
+        <text>Guardar</text>
       </controlProperties>
     </control>
     <control controlID="20" controlTypeID="com.balsamiq.mockups::Label" x="270" y="187" w="-1" h="-1" measuredW="38" measuredH="21" zOrder="15" locked="false" isInGroup="-1">
@@ -124,19 +118,42 @@
     <control controlID="28" controlTypeID="com.balsamiq.mockups::HelpButton" x="535" y="188" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="25" locked="false" isInGroup="-1"/>
     <control controlID="29" controlTypeID="com.balsamiq.mockups::HelpButton" x="771" y="138" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="26" locked="false" isInGroup="-1"/>
     <control controlID="30" controlTypeID="com.balsamiq.mockups::HelpButton" x="771" y="186" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="27" locked="false" isInGroup="-1"/>
-    <control controlID="32" controlTypeID="com.balsamiq.mockups::HelpButton" x="1279" y="516" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="28" locked="false" isInGroup="-1"/>
-    <control controlID="33" controlTypeID="com.balsamiq.mockups::Label" x="885" y="187" w="-1" h="-1" measuredW="45" measuredH="21" zOrder="29" locked="false" isInGroup="-1">
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::HelpButton" x="1277" y="424" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="28" locked="false" isInGroup="-1"/>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::Label" x="241" y="49" w="-1" h="-1" measuredW="115" measuredH="21" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <text>Estado%20de%20Revisi%F3n</text>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::ComboBox" x="373" y="47" w="-1" h="-1" measuredW="113" measuredH="24" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>up</state>
+        <text>Por%20Confirmar</text>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::Label" x="885" y="187" w="-1" h="-1" measuredW="45" measuredH="21" zOrder="31" locked="false" isInGroup="-1">
       <controlProperties>
         <color>2848996</color>
         <text>Estado%3A</text>
       </controlProperties>
     </control>
-    <control controlID="34" controlTypeID="com.balsamiq.mockups::ComboBox" x="1003" y="185" w="-1" h="-1" measuredW="162" measuredH="24" zOrder="30" locked="false" isInGroup="-1">
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::ComboBox" x="983" y="185" w="-1" h="-1" measuredW="66" measuredH="24" zOrder="32" locked="false" isInGroup="-1">
       <controlProperties>
-        <state>disabled</state>
-        <text>Pendiente%20de%20Revisi%F3n</text>
+        <state>up</state>
+        <text>Activo</text>
       </controlProperties>
     </control>
-    <control controlID="35" controlTypeID="com.balsamiq.mockups::HelpButton" x="1177" y="188" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="31" locked="false" isInGroup="-1"/>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::HelpButton" x="1059" y="188" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="33" locked="false" isInGroup="-1"/>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::Image" x="1093" y="421" w="30" h="24" measuredW="1280" measuredH="1024" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../../../Downloads/mas.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Accordion" x="241" y="87" w="1056" h="314" measuredW="241" measuredH="213" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Descripci%F3n%20y%20Ubicaci%F3n%0AAfectaci%F3n%0AApoyo%20Del%20F.N.G.R.D%0ASeguimiento%20y%20Control%20a%20la%20Emergencia%0AHistorial</text>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>

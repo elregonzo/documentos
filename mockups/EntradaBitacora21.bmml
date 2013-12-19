@@ -1,0 +1,89 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1462" measuredH="451" mockupW="1050" mockupH="432">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Accordion" x="412" y="92" w="1050" h="311" measuredW="154" measuredH="159" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>1</selectedIndex>
+        <text>Descripci%F3n%20y%20Ubicaci%F3n%0ADatos%20De%20Afectaci%F3n%0AHistorial</text>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="729" y="19" w="-1" h="-1" measuredW="361" measuredH="43" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Entrada%20de%20Bit%E1cora</text>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Label" x="444" y="228" w="-1" h="-1" measuredW="111" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>44010</color>
+        <text>Personas%20Muertas%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Label" x="444" y="302" w="-1" h="-1" measuredW="107" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>44010</color>
+        <text>Personas%20Heridas%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::Label" x="769" y="226" w="-1" h="-1" measuredW="151" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>44010</color>
+        <text>Personas%20Desaparecidas%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Label" x="769" y="302" w="-1" h="-1" measuredW="121" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>44010</color>
+        <text>Personas%20Afectadas</text>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Label" x="1128" y="226" w="-1" h="-1" measuredW="116" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>44010</color>
+        <text>Familias%20Afectadas%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::NumericStepper" x="609" y="226" w="-1" h="-1" measuredW="41" measuredH="24" zOrder="8" locked="false" isInGroup="-1"/>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::NumericStepper" x="609" y="300" w="-1" h="-1" measuredW="41" measuredH="24" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>5</text>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::NumericStepper" x="985" y="226" w="-1" h="-1" measuredW="41" measuredH="24" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>0</text>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::NumericStepper" x="985" y="299" w="-1" h="-1" measuredW="39" measuredH="24" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>1</text>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::NumericStepper" x="1343" y="226" w="47" h="-1" measuredW="41" measuredH="24" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>0</text>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::HelpButton" x="659" y="229" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="13" locked="false" isInGroup="-1"/>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::HelpButton" x="659" y="303" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="14" locked="false" isInGroup="-1"/>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::HelpButton" x="1037" y="229" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="15" locked="false" isInGroup="-1"/>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::HelpButton" x="1037" y="303" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="16" locked="false" isInGroup="-1"/>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::HelpButton" x="1400" y="229" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="17" locked="false" isInGroup="-1"/>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::TabBar" x="412" y="145" w="1050" h="230" measuredW="331" measuredH="100" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>0</selectedIndex>
+        <text>Personas%2C%20Infraestructura%2C%20Edificios%20y%20%C1rea</text>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::Button" x="1291" y="424" w="142" h="27" measuredW="71" measuredH="27" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Guardar</text>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::HelpButton" x="1444" y="428" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="19" locked="false" isInGroup="-1"/>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::Image" x="1260" y="425" w="30" h="24" measuredW="1280" measuredH="1024" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../../../Downloads/mas.jpg</src>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

@@ -24,7 +24,7 @@
     <control controlID="9" controlTypeID="com.balsamiq.mockups::HelpButton" x="955" y="721" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="5" locked="false" isInGroup="-1"/>
     <control controlID="12" controlTypeID="com.balsamiq.mockups::Image" x="1241" y="309" w="35" h="28" measuredW="1280" measuredH="1024" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../../Downloads/mas.jpg</src>
+        <src>../../../Downloads/mas.jpg</src>
       </controlProperties>
     </control>
     <control controlID="13" controlTypeID="com.balsamiq.mockups::DataGrid" x="938" y="358" w="479" h="321" measuredW="489" measuredH="321" zOrder="7" locked="false" isInGroup="-1">
@@ -51,7 +51,7 @@
     </control>
     <control controlID="18" controlTypeID="com.balsamiq.mockups::Image" x="892" y="263" w="32" h="24" measuredW="1280" measuredH="1024" zOrder="12" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../../Downloads/mas.jpg</src>
+        <src>../../../Downloads/mas.jpg</src>
       </controlProperties>
     </control>
     <control controlID="19" controlTypeID="com.balsamiq.mockups::Label" x="455" y="138" w="-1" h="-1" measuredW="55" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
