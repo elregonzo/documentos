@@ -94,7 +94,7 @@
     <control controlID="22" controlTypeID="com.balsamiq.mockups::HelpButton" x="1444" y="422" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="22" locked="false" isInGroup="-1"/>
     <control controlID="23" controlTypeID="com.balsamiq.mockups::Image" x="1260" y="419" w="30" h="24" measuredW="1280" measuredH="1024" zOrder="23" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../../../Downloads/mas.jpg</src>
+        <src>./Presentacion%2520Requerimientos/mas.jpg</src>
       </controlProperties>
     </control>
   </controls>

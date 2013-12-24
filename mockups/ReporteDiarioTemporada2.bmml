@@ -9,7 +9,7 @@
     </control>
     <control controlID="47" controlTypeID="com.balsamiq.mockups::Image" x="179" y="347" w="-1" h="-1" measuredW="765" measuredH="287" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../../Documents/Presentacion%2520Requerimientos/ReporteDiarioTemporada2.png</src>
+        <src>./Presentacion%2520Requerimientos/ReporteDiarioTemporada2.png</src>
         <text/>
       </controlProperties>
     </control>

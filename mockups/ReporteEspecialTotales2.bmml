@@ -36,7 +36,7 @@
     </control>
     <control controlID="33" controlTypeID="com.balsamiq.mockups::Image" x="898" y="284" w="32" h="24" measuredW="1280" measuredH="1024" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../../../Downloads/mas.jpg</src>
+        <src>./Presentacion%2520Requerimientos/mas.jpg</src>
       </controlProperties>
     </control>
     <control controlID="34" controlTypeID="com.balsamiq.mockups::Label" x="461" y="159" w="-1" h="-1" measuredW="55" measuredH="21" zOrder="10" locked="false" isInGroup="-1">

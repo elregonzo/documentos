@@ -97,32 +97,32 @@
     </control>
     <control controlID="59" controlTypeID="com.balsamiq.mockups::Image" x="1553" y="167" w="27" h="30" measuredW="102" measuredH="102" zOrder="19" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../../../Desktop/Imagenes%2520Presentacion/editar.jpg</src>
+        <src>./Presentacion%2520Requerimientos/editar.jpg</src>
       </controlProperties>
     </control>
     <control controlID="61" controlTypeID="com.balsamiq.mockups::Image" x="1555" y="217" w="27" h="30" measuredW="102" measuredH="102" zOrder="20" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../../../Desktop/Imagenes%2520Presentacion/editar.jpg</src>
+        <src>./Presentacion%2520Requerimientos/editar.jpg</src>
       </controlProperties>
     </control>
     <control controlID="62" controlTypeID="com.balsamiq.mockups::Image" x="1553" y="264" w="27" h="30" measuredW="102" measuredH="102" zOrder="21" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../../../Desktop/Imagenes%2520Presentacion/editar.jpg</src>
+        <src>./Presentacion%2520Requerimientos/editar.jpg</src>
       </controlProperties>
     </control>
     <control controlID="63" controlTypeID="com.balsamiq.mockups::Image" x="1555" y="313" w="27" h="30" measuredW="102" measuredH="102" zOrder="22" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../../../Desktop/Imagenes%2520Presentacion/editar.jpg</src>
+        <src>./Presentacion%2520Requerimientos/editar.jpg</src>
       </controlProperties>
     </control>
     <control controlID="64" controlTypeID="com.balsamiq.mockups::Image" x="1553" y="361" w="27" h="30" measuredW="102" measuredH="102" zOrder="23" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../../../Desktop/Imagenes%2520Presentacion/editar.jpg</src>
+        <src>./Presentacion%2520Requerimientos/editar.jpg</src>
       </controlProperties>
     </control>
     <control controlID="65" controlTypeID="com.balsamiq.mockups::Image" x="1553" y="410" w="27" h="30" measuredW="102" measuredH="102" zOrder="24" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../../../Desktop/Imagenes%2520Presentacion/editar.jpg</src>
+        <src>./Presentacion%2520Requerimientos/editar.jpg</src>
       </controlProperties>
     </control>
   </controls>

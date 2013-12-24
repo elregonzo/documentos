@@ -7,7 +7,7 @@
     </control>
     <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="633" y="100" w="-1" h="-1" measuredW="413" measuredH="550" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../../Documents/Presentacion%2520Requerimientos/ReporteIncendiosForestales.png</src>
+        <src>./Presentacion%2520Requerimientos/ReporteIncendiosForestales.png</src>
         <text/>
       </controlProperties>
     </control>
