@@ -168,5 +168,16 @@
         <text>Diana%20Luc%EDa%20Martinez</text>
       </controlProperties>
     </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Label" x="812" y="108" w="-1" h="-1" measuredW="44" measuredH="21" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Evento%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::TextInput" x="874" y="105" w="117" h="-1" measuredW="73" measuredH="27" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>disabled</state>
+        <text>Avalancha</text>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>

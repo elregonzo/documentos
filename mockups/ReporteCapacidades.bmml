@@ -5,29 +5,50 @@
         <text>Capacidades%20Nacionales</text>
       </controlProperties>
     </control>
-    <control controlID="2" controlTypeID="com.balsamiq.mockups::TabBar" x="235" y="69" w="1389" h="552" measuredW="612" measuredH="100" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::TabBar" x="235" y="69" w="1389" h="552" measuredW="714" measuredH="100" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <selectedIndex>0</selectedIndex>
-        <text>Talento%20Humano%2C%20Telecomunicaciones%2C%20Equipos%20y%20Herramientas%2C%20Bodegas%2C%20Alojamiento%2C%20Salud%2C%20...</text>
+        <text>Talento%20Humano%2C%20Telecomunicaciones%2C%20Equipos%20y%20Herramientas%2C%20Bodegas%2C%20Alojamiento%2C%20Salud%2C%20...%2C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</text>
       </controlProperties>
     </control>
-    <control controlID="3" controlTypeID="com.balsamiq.mockups::DataGrid" x="250" y="153" w="1359" h="337" measuredW="810" measuredH="337" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::DataGrid" x="250" y="153" w="1359" h="368" measuredW="976" measuredH="337" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Item%20%5Cr%20%20%5Ev%2C%20Cantidad%20%5Ev%2C%20Tipo%20%5Ev%2C%20Armada%20Nacional%2C%20Ejercito%20Nacional%2C%20Fuerza%20A%E9rea%2C%20Policia%20Nacional%0ARescate%20helicoportado%2C1%2C%2C9%2C%2C%2C%0AAPH%2C1%2C%2C%2C1%2C10%2C%0APersonal%20Entrenado%20en%20MEC%2C2%2C%2C4%2C%2C%2C%0AM%E9dico%2C3%2C%2C%2C7%2C%2C%0AEnfermer%EDa%2C5%2C9%2C%2C%2C%2C%0APersonal%20entrenado%20en%20Triage%2C8%2C20%2C%2C18%2C%2C%0AEDAN%2C13%2C1%2C%2C%2C%2C%0ABinomio%20%28hombre%20+%20k9%29%2C21%2C%2C%2C0%2C%2C%0AExtricaci%F3n%20vehicular%2C34%2C%2C%2C22%2C%2C%0ARestablecimiento%20de%20contactos%20familiares%2C55%2C31%2C%2C%2C15%2C</text>
+        <text>Item%20%5Cr%20%20%5Ev%2C%20Cantidad%20%5Ev%2C%20Tipo%20%5Ev%2CArmada%20Nacional%20%5Ev%2C%20Ejercito%20Nacional%20%5Ev%2C%20Fuerza%20A%E9rea%20%5Ev%2C%20Policia%20Nacional%20%5Ev%2C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0ARescate%20helicoportado%2C1%2C%2C9%2C%2C%2C%0AAPH%2C1%2C%2C%2C1%2C10%2C%0APersonal%20Entrenado%20en%20MEC%2C2%2C%2C4%2C%2C%2C%0AM%E9dico%2C3%2C%2C%2C7%2C%2C%0AEnfermer%EDa%2C5%2C9%2C%2C%2C%2C%0APersonal%20entrenado%20en%20Triage%2C8%2C20%2C%2C18%2C%2C%0AEDAN%2C13%2C1%2C%2C%2C%2C%0ABinomio%20%28hombre%20+%20k9%29%2C21%2C%2C%2C0%2C%2C%0AExtricaci%F3n%20vehicular%2C34%2C%2C%2C22%2C%2C%0ARestablecimiento%20de%20contactos%20familiares%2C55%2C31%2C%2C%2C15%2C</text>
       </controlProperties>
     </control>
-    <control controlID="4" controlTypeID="com.balsamiq.mockups::HelpButton" x="652" y="160" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="3" locked="false" isInGroup="-1"/>
-    <control controlID="5" controlTypeID="com.balsamiq.mockups::HelpButton" x="777" y="160" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="4" locked="false" isInGroup="-1"/>
-    <control controlID="6" controlTypeID="com.balsamiq.mockups::HelpButton" x="855" y="160" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="5" locked="false" isInGroup="-1"/>
-    <control controlID="7" controlTypeID="com.balsamiq.mockups::HelpButton" x="1009" y="160" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="6" locked="false" isInGroup="-1"/>
-    <control controlID="8" controlTypeID="com.balsamiq.mockups::HelpButton" x="1216" y="160" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="7" locked="false" isInGroup="-1"/>
-    <control controlID="9" controlTypeID="com.balsamiq.mockups::HelpButton" x="1388" y="160" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="8" locked="false" isInGroup="-1"/>
-    <control controlID="10" controlTypeID="com.balsamiq.mockups::HelpButton" x="1579" y="160" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="9" locked="false" isInGroup="-1"/>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::HelpButton" x="685" y="162" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::HelpButton" x="750" y="162" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="4" locked="false" isInGroup="-1"/>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::HelpButton" x="920" y="162" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="5" locked="false" isInGroup="-1"/>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::HelpButton" x="1094" y="162" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="6" locked="false" isInGroup="-1"/>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::HelpButton" x="1243" y="162" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="7" locked="false" isInGroup="-1"/>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::HelpButton" x="1404" y="162" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="8" locked="false" isInGroup="-1"/>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::HelpButton" x="581" y="162" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="9" locked="false" isInGroup="-1"/>
     <control controlID="12" controlTypeID="com.balsamiq.mockups::Button" x="1309" y="558" w="-1" h="-1" measuredW="263" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Actualizar%20Capacidades%20Talento%20Humano</text>
       </controlProperties>
     </control>
     <control controlID="13" controlTypeID="com.balsamiq.mockups::HelpButton" x="1581" y="562" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="11" locked="false" isInGroup="-1"/>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Button" x="1179" y="558" w="-1" h="-1" measuredW="71" measuredH="27" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Imprimir</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::HelpButton" x="1255" y="562" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="13" locked="false" isInGroup="-1"/>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Link" x="259" y="493" w="-1" h="-1" measuredW="85" measuredH="19" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>+%20Agregar%20Fila</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Link" x="1452" y="162" w="-1" h="-1" measuredW="116" measuredH="19" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>+%20Agregar%20Columna</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Link" x="871" y="73" w="-1" h="-1" measuredW="84" measuredH="19" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>+%20Agregar%20Eje</text>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>

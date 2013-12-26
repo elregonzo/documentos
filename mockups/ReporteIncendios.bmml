@@ -16,42 +16,52 @@
         <text>12/12/2020</text>
       </controlProperties>
     </control>
-    <control controlID="3" controlTypeID="com.balsamiq.mockups::NumericStepper" x="898" y="272" w="90" h="-1" measuredW="49" measuredH="24" zOrder="3" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>27</text>
-      </controlProperties>
-    </control>
-    <control controlID="4" controlTypeID="com.balsamiq.mockups::NumericStepper" x="898" y="318" w="90" h="-1" measuredW="50" measuredH="24" zOrder="4" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>20</text>
-      </controlProperties>
-    </control>
-    <control controlID="5" controlTypeID="com.balsamiq.mockups::NumericStepper" x="898" y="376" w="90" h="-1" measuredW="49" measuredH="24" zOrder="5" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>30</text>
-      </controlProperties>
-    </control>
-    <control controlID="6" controlTypeID="com.balsamiq.mockups::NumericStepper" x="898" y="430" w="90" h="-1" measuredW="41" measuredH="24" zOrder="6" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>7</text>
-      </controlProperties>
-    </control>
-    <control controlID="7" controlTypeID="com.balsamiq.mockups::NumericStepper" x="898" y="467" w="90" h="-1" measuredW="71" measuredH="24" zOrder="7" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>12000</text>
-      </controlProperties>
-    </control>
-    <control controlID="8" controlTypeID="com.balsamiq.mockups::Button" x="896" y="683" w="-1" h="-1" measuredW="126" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Button" x="896" y="683" w="-1" h="-1" measuredW="126" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Exportar%20Reporte</text>
       </controlProperties>
     </control>
-    <control controlID="9" controlTypeID="com.balsamiq.mockups::ButtonBar" x="669" y="683" w="-1" h="-1" measuredW="185" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::ButtonBar" x="669" y="683" w="-1" h="-1" measuredW="185" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Pdf%2C%20Excel%2C%20Impresi%F3n</text>
       </controlProperties>
     </control>
-    <control controlID="10" controlTypeID="com.balsamiq.mockups::HelpButton" x="857" y="686" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="10" locked="false" isInGroup="-1"/>
-    <control controlID="11" controlTypeID="com.balsamiq.mockups::HelpButton" x="1024" y="685" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="11" locked="false" isInGroup="-1"/>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::HelpButton" x="857" y="686" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="5" locked="false" isInGroup="-1"/>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::HelpButton" x="1024" y="685" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="6" locked="false" isInGroup="-1"/>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Label" x="937" y="273" w="-1" h="-1" measuredW="16" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>27</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Label" x="937" y="320" w="-1" h="-1" measuredW="17" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>20</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Label" x="937" y="379" w="-1" h="-1" measuredW="16" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>30</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Label" x="940" y="431" w="-1" h="-1" measuredW="10" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>7</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Label" x="925" y="469" w="-1" h="-1" measuredW="40" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>12.000</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Label" x="789" y="108" w="-1" h="-1" measuredW="77" measuredH="21" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Fecha%20Inicial%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::DateChooser" x="886" y="106" w="-1" h="-1" measuredW="114" measuredH="25" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>12/12/2019</text>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>
