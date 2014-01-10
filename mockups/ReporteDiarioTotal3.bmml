@@ -55,5 +55,16 @@
     <control controlID="31" controlTypeID="com.balsamiq.mockups::HelpButton" x="978" y="107" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="9" locked="false" isInGroup="-1"/>
     <control controlID="32" controlTypeID="com.balsamiq.mockups::HelpButton" x="818" y="855" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="10" locked="false" isInGroup="-1"/>
     <control controlID="33" controlTypeID="com.balsamiq.mockups::HelpButton" x="974" y="856" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="11" locked="false" isInGroup="-1"/>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::Button" x="583" y="850" w="-1" h="-1" measuredW="96" measuredH="27" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Enviar%20Email</text>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::Image" x="549" y="847" w="27" h="27" measuredW="2800" measuredH="2800" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./Presentacion%2520Requerimientos/email.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::HelpButton" x="681" y="854" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="14" locked="false" isInGroup="-1"/>
   </controls>
 </mockup>

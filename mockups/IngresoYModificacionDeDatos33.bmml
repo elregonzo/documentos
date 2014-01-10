@@ -1,77 +1,262 @@
-<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1297" measuredH="494" mockupW="1056" mockupH="467">
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1888" measuredH="701" mockupW="1647" mockupH="679">
   <controls>
-    <control controlID="35" controlTypeID="com.balsamiq.mockups::SubTitle" x="642" y="27" w="-1" h="-1" measuredW="191" measuredH="27" zOrder="0" locked="false" isInGroup="-1">
+    <control controlID="109" controlTypeID="com.balsamiq.mockups::SubTitle" x="649" y="22" w="-1" h="-1" measuredW="191" measuredH="27" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Ingreso%20De%20Datos</text>
       </controlProperties>
     </control>
-    <control controlID="36" controlTypeID="com.balsamiq.mockups::Accordion" x="241" y="111" w="1056" h="338" measuredW="241" measuredH="213" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="110" controlTypeID="com.balsamiq.mockups::Accordion" x="241" y="111" w="1056" h="419" measuredW="241" measuredH="213" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <selectedIndex>2</selectedIndex>
         <text>Descripci%F3n%20y%20Ubicaci%F3n%0AAfectaci%F3n%0AApoyo%20Del%20F.N.G.R.D%0ASeguimiento%20y%20Control%20a%20la%20Emergencia%0AHistorial</text>
         <verticalScrollbar>false</verticalScrollbar>
       </controlProperties>
     </control>
-    <control controlID="37" controlTypeID="com.balsamiq.mockups::Button" x="1124" y="467" w="142" h="27" measuredW="71" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="111" controlTypeID="com.balsamiq.mockups::Button" x="1124" y="537" w="142" h="27" measuredW="71" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Guardar</text>
       </controlProperties>
     </control>
-    <control controlID="38" controlTypeID="com.balsamiq.mockups::HelpButton" x="1277" y="471" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="3" locked="false" isInGroup="-1"/>
-    <control controlID="41" controlTypeID="com.balsamiq.mockups::Image" x="1093" y="468" w="30" h="24" measuredW="1280" measuredH="1024" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="112" controlTypeID="com.balsamiq.mockups::HelpButton" x="1277" y="541" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="113" controlTypeID="com.balsamiq.mockups::Image" x="1093" y="538" w="30" h="24" measuredW="1280" measuredH="1024" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <src>./Presentacion%2520Requerimientos/mas.jpg</src>
       </controlProperties>
     </control>
-    <control controlID="42" controlTypeID="com.balsamiq.mockups::TabBar" x="241" y="192" w="1054" h="202" measuredW="417" measuredH="100" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="114" controlTypeID="com.balsamiq.mockups::TabBar" x="241" y="192" w="1054" h="284" measuredW="992" measuredH="100" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <selectedIndex>2</selectedIndex>
-        <text>Materiales%2C%20Totales%2C%20Giro%20Directo%2C%20Seguimiento%20Contractual</text>
+        <text>AHE%2C%20Banco%20de%20Materiales%2C%20Herramientas%2C%20Agua%20y%20Saniamiento%2COtros%2C%20Transferencias%20econ%F3mica%20y%20Subsidio%20de%20Arriendo%2C%20Consolidado%20%2C%20Seguimiento%20Contractual</text>
       </controlProperties>
     </control>
-    <control controlID="43" controlTypeID="com.balsamiq.mockups::HelpButton" x="653" y="299" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="6" locked="false" isInGroup="-1"/>
-    <control controlID="44" controlTypeID="com.balsamiq.mockups::Label" x="285" y="298" w="-1" h="-1" measuredW="54" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="115" controlTypeID="com.balsamiq.mockups::TitleWindow" x="1417" y="65" w="471" h="313" measuredW="450" measuredH="400" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
-        <color>14485510</color>
-        <text>Linea%20No.</text>
+        <text>Selecci%F3n%20Elemento%20de%20Herramientas%20Manuales</text>
       </controlProperties>
     </control>
-    <control controlID="45" controlTypeID="com.balsamiq.mockups::TextInput" x="420" y="295" w="225" h="-1" measuredW="191" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="116" controlTypeID="com.balsamiq.mockups::TextInput" x="1794" y="130" w="80" h="-1" measuredW="28" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Davivienda%20Ahorros%2019120235</text>
+        <text>12</text>
       </controlProperties>
     </control>
-    <control controlID="46" controlTypeID="com.balsamiq.mockups::Label" x="1050" y="75" w="-1" h="-1" measuredW="115" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
+    <control controlID="117" controlTypeID="com.balsamiq.mockups::TextInput" x="1525" y="186" w="124" h="-1" measuredW="62" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
-        <color>2848996</color>
-        <text>Estado%20de%20Revisi%F3n</text>
+        <text>%2410.000</text>
       </controlProperties>
     </control>
-    <control controlID="47" controlTypeID="com.balsamiq.mockups::ComboBox" x="1182" y="73" w="-1" h="-1" measuredW="113" measuredH="24" zOrder="10" locked="false" isInGroup="-1">
+    <control controlID="118" controlTypeID="com.balsamiq.mockups::Label" x="1726" y="133" w="-1" h="-1" measuredW="59" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
-        <state>up</state>
-        <text>Por%20Confirmar</text>
+        <text>Unidades%3A</text>
       </controlProperties>
     </control>
-    <control controlID="48" controlTypeID="com.balsamiq.mockups::Label" x="241" y="76" w="-1" h="-1" measuredW="130" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
+    <control controlID="119" controlTypeID="com.balsamiq.mockups::Label" x="1436" y="189" w="-1" h="-1" measuredW="78" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Valor%20Unidad%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="120" controlTypeID="com.balsamiq.mockups::ComboBox" x="1587" y="129" w="127" h="-1" measuredW="81" measuredH="24" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Machete</text>
+      </controlProperties>
+    </control>
+    <control controlID="121" controlTypeID="com.balsamiq.mockups::Label" x="1436" y="125" w="-1" h="-1" measuredW="140" measuredH="37" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Elemento%20de%5CnHerramientas%20Manuales</text>
+      </controlProperties>
+    </control>
+    <control controlID="122" controlTypeID="com.balsamiq.mockups::TitleWindow" x="1417" y="474" w="390" h="227" measuredW="450" measuredH="400" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Nuevo%20Elemento%20de%20Herramientas%20Manuales</text>
+      </controlProperties>
+    </control>
+    <control controlID="123" controlTypeID="com.balsamiq.mockups::Label" x="1460" y="526" w="152" h="-1" measuredW="142" measuredH="37" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Nombre%20de%20Elemento%20de%5CnHerramientas%20Manuales</text>
+      </controlProperties>
+    </control>
+    <control controlID="124" controlTypeID="com.balsamiq.mockups::Button" x="1109" y="392" w="-1" h="-1" measuredW="162" measuredH="37" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%F1adir%20Elemento%20de%5CnHerramientas%20Manuales</text>
+      </controlProperties>
+    </control>
+    <control controlID="125" controlTypeID="com.balsamiq.mockups::DataGrid" x="364" y="249" w="685" h="168" measuredW="520" measuredH="171" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Material%20%5Ev%2CUnidades%20%5Ev%2C%20Valor%20Unidad%20%5Ev%2C%20Confirmar%20%2C%20Valor%20Total%20%5Ev%0AUniones%20pvc%20-%20%BD%20pulgada%2C12%2C%20%20%20%20%20%20%20%2C%2C12.000%0ARastrillo%20McLeod%2C%201%2C%20%20%2C%2C%20200.000%0AHacha%20Pulasky%2C%20%2020%2C%20%2C%2C%2050.000%0AAzadones%2C%20%2015%20%2C%20%2C%2C%2015.000%0ATotal%2C%2C%20%2C%2C%20277.000</text>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="126" controlTypeID="com.balsamiq.mockups::Arrow" x="1190" y="176" w="218" h="175" measuredW="150" measuredH="100" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="127" controlTypeID="com.balsamiq.mockups::HelpButton" x="1266" y="396" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="18" locked="false" isInGroup="-1"/>
+    <control controlID="128" controlTypeID="com.balsamiq.mockups::Button" x="1685" y="299" w="164" h="38" measuredW="162" measuredH="37" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Nuevo%20Elemento%20de%5CnHerramientas%20Manuales</text>
+      </controlProperties>
+    </control>
+    <control controlID="129" controlTypeID="com.balsamiq.mockups::Arrow" x="1578" y="337" w="120" h="128" measuredW="150" measuredH="100" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>bottom</direction>
+        <leftArrow>true</leftArrow>
+        <rightArrow>false</rightArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="130" controlTypeID="com.balsamiq.mockups::HelpButton" x="1856" y="310" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="21" locked="false" isInGroup="-1"/>
+    <control controlID="131" controlTypeID="com.balsamiq.mockups::Image" x="1649" y="300" w="30" h="24" measuredW="1280" measuredH="1024" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./Presentacion%2520Requerimientos/mas.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="132" controlTypeID="com.balsamiq.mockups::Label" x="241" y="74" w="-1" h="-1" measuredW="130" measuredH="21" zOrder="23" locked="false" isInGroup="-1">
       <controlProperties>
         <text>T%EDtulo%20De%20Emergencia%3A</text>
       </controlProperties>
     </control>
-    <control controlID="49" controlTypeID="com.balsamiq.mockups::TextInput" x="386" y="73" w="219" h="-1" measuredW="220" measuredH="27" zOrder="12" locked="false" isInGroup="-1">
+    <control controlID="133" controlTypeID="com.balsamiq.mockups::TextInput" x="386" y="71" w="219" h="-1" measuredW="220" measuredH="27" zOrder="24" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Desbordamiento%20del%20r%EDo%20Magdalena</text>
       </controlProperties>
     </control>
-    <control controlID="50" controlTypeID="com.balsamiq.mockups::Label" x="661" y="74" w="-1" h="-1" measuredW="44" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
+    <control controlID="134" controlTypeID="com.balsamiq.mockups::Label" x="661" y="72" w="-1" h="-1" measuredW="44" measuredH="21" zOrder="25" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Evento%3A</text>
       </controlProperties>
     </control>
-    <control controlID="51" controlTypeID="com.balsamiq.mockups::TextInput" x="723" y="71" w="117" h="-1" measuredW="73" measuredH="27" zOrder="14" locked="false" isInGroup="-1">
+    <control controlID="135" controlTypeID="com.balsamiq.mockups::TextInput" x="723" y="69" w="117" h="-1" measuredW="73" measuredH="27" zOrder="26" locked="false" isInGroup="-1">
       <controlProperties>
         <state>disabled</state>
         <text>Avalancha</text>
+      </controlProperties>
+    </control>
+    <control controlID="136" controlTypeID="com.balsamiq.mockups::TextInput" x="1738" y="186" w="124" h="-1" measuredW="71" measuredH="27" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>disabled</state>
+        <text>%24120.000</text>
+      </controlProperties>
+    </control>
+    <control controlID="137" controlTypeID="com.balsamiq.mockups::Label" x="1661" y="189" w="-1" h="-1" measuredW="65" measuredH="21" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Valor%20Total%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="138" controlTypeID="com.balsamiq.mockups::Button" x="1539" y="630" w="171" h="37" measuredW="162" measuredH="37" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Nuevo%20Elemento%20de%5CnHerramientas%20Manuales</text>
+      </controlProperties>
+    </control>
+    <control controlID="139" controlTypeID="com.balsamiq.mockups::HelpButton" x="1716" y="640" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="30" locked="false" isInGroup="-1"/>
+    <control controlID="140" controlTypeID="com.balsamiq.mockups::Image" x="1509" y="635" w="30" h="24" measuredW="1280" measuredH="1024" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./Presentacion%2520Requerimientos/mas.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="141" controlTypeID="com.balsamiq.mockups::TextInput" x="1649" y="581" w="124" h="-1" measuredW="62" measuredH="27" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%2410.000</text>
+      </controlProperties>
+    </control>
+    <control controlID="142" controlTypeID="com.balsamiq.mockups::Label" x="1460" y="584" w="-1" h="-1" measuredW="173" measuredH="21" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Valor%20Unidad%20Predeterminado</text>
+      </controlProperties>
+    </control>
+    <control controlID="143" controlTypeID="com.balsamiq.mockups::ButtonBar" x="1572" y="250" w="-1" h="-1" measuredW="76" measuredH="27" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>1</selectedIndex>
+        <text>S%ED%2CNo</text>
+      </controlProperties>
+    </control>
+    <control controlID="144" controlTypeID="com.balsamiq.mockups::Label" x="1438" y="253" w="-1" h="-1" measuredW="104" measuredH="21" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Valor%20Confirmado%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="145" controlTypeID="com.balsamiq.mockups::Button" x="1685" y="244" w="167" h="42" measuredW="162" measuredH="37" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%F1adir%20Elemento%20de%5CnHerramientas%20Manuales</text>
+      </controlProperties>
+    </control>
+    <control controlID="146" controlTypeID="com.balsamiq.mockups::HelpButton" x="1857" y="254" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="37" locked="false" isInGroup="-1"/>
+    <control controlID="147" controlTypeID="com.balsamiq.mockups::Label" x="707" y="271" w="-1" h="-1" measuredW="32" measuredH="21" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13576743</color>
+        <text>1.000</text>
+      </controlProperties>
+    </control>
+    <control controlID="148" controlTypeID="com.balsamiq.mockups::Label" x="706" y="302" w="-1" h="-1" measuredW="51" measuredH="21" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>200.000</text>
+      </controlProperties>
+    </control>
+    <control controlID="149" controlTypeID="com.balsamiq.mockups::Label" x="707" y="331" w="-1" h="-1" measuredW="35" measuredH="21" zOrder="40" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13576743</color>
+        <text>2.500</text>
+      </controlProperties>
+    </control>
+    <control controlID="150" controlTypeID="com.balsamiq.mockups::Label" x="707" y="362" w="-1" h="-1" measuredW="32" measuredH="21" zOrder="41" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13576743</color>
+        <text>1.000</text>
+      </controlProperties>
+    </control>
+    <control controlID="151" controlTypeID="com.balsamiq.mockups::Button" x="793" y="435" w="-1" h="-1" measuredW="128" measuredH="27" zOrder="42" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Confirmar%20Valores</text>
+      </controlProperties>
+    </control>
+    <control controlID="152" controlTypeID="com.balsamiq.mockups::HelpButton" x="930" y="439" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="43" locked="false" isInGroup="-1"/>
+    <control controlID="153" controlTypeID="com.balsamiq.mockups::CheckBox" x="840" y="271" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="44" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="154" controlTypeID="com.balsamiq.mockups::CheckBox" x="840" y="302" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="45" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>selected</state>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="155" controlTypeID="com.balsamiq.mockups::CheckBox" x="840" y="331" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="46" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>selected</state>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="156" controlTypeID="com.balsamiq.mockups::CheckBox" x="840" y="362" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="47" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="157" controlTypeID="com.balsamiq.mockups::Image" x="1078" y="393" w="30" h="24" measuredW="1280" measuredH="1024" zOrder="48" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./Presentacion%2520Requerimientos/mas.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="158" controlTypeID="com.balsamiq.mockups::Image" x="767" y="435" w="23" h="31" measuredW="128" measuredH="170" zOrder="49" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./Presentacion%2520Requerimientos/flecha.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="159" controlTypeID="com.balsamiq.mockups::Label" x="1005" y="71" w="-1" h="-1" measuredW="124" measuredH="21" zOrder="50" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Persona%20que%20reporta%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="160" controlTypeID="com.balsamiq.mockups::TextInput" x="1144" y="69" w="153" h="-1" measuredW="140" measuredH="27" zOrder="51" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>disabled</state>
+        <text>Diana%20Luc%EDa%20Martinez</text>
+      </controlProperties>
+    </control>
+    <control controlID="161" controlTypeID="com.balsamiq.mockups::TextInput" x="1649" y="531" w="119" h="-1" measuredW="57" measuredH="27" zOrder="52" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Martillo</text>
       </controlProperties>
     </control>
   </controls>
