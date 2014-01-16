@@ -1,4 +1,4 @@
-<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="2237" measuredH="644" mockupW="1851" mockupH="637">
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="2237" measuredH="665" mockupW="1851" mockupH="658">
   <controls>
     <control controlID="0" controlTypeID="com.balsamiq.mockups::Title" x="945" y="7" w="-1" h="-1" measuredW="149" measuredH="43" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
@@ -50,12 +50,12 @@
         <text>Todas</text>
       </controlProperties>
     </control>
-    <control controlID="61" controlTypeID="com.balsamiq.mockups::Button" x="1261" y="590" w="102" h="54" measuredW="96" measuredH="37" zOrder="12" locked="false" isInGroup="-1">
+    <control controlID="61" controlTypeID="com.balsamiq.mockups::Button" x="1261" y="590" w="115" h="75" measuredW="115" measuredH="53" zOrder="12" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Convertir%20en%5Cr%20Emergencia</text>
+        <text>Convertir%20en%5Cr%20Emergencia%20de%5CnBase%20de%20datos</text>
       </controlProperties>
     </control>
-    <control controlID="62" controlTypeID="com.balsamiq.mockups::HelpButton" x="1366" y="601" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="13" locked="false" isInGroup="-1"/>
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::HelpButton" x="1378" y="617" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="13" locked="false" isInGroup="-1"/>
     <control controlID="63" controlTypeID="com.balsamiq.mockups::CheckBox" x="1304" y="290" w="-1" h="-1" measuredW="20" measuredH="21" zOrder="14" locked="false" isInGroup="-1">
       <controlProperties>
         <text/>
@@ -241,7 +241,7 @@
         <text>Selecci%F3n%20Mun.</text>
       </controlProperties>
     </control>
-    <control controlID="102" controlTypeID="com.balsamiq.mockups::Arrow" x="1434" y="206" w="271" h="69" measuredW="150" measuredH="100" zOrder="49" locked="false" isInGroup="-1">
+    <control controlID="102" controlTypeID="com.balsamiq.mockups::Arrow" x="1462" y="206" w="271" h="69" measuredW="150" measuredH="100" zOrder="49" locked="false" isInGroup="-1">
       <controlProperties>
         <direction>bottom</direction>
         <leftArrow>false</leftArrow>
@@ -337,7 +337,7 @@
         <text>0</text>
       </controlProperties>
     </control>
-    <control controlID="133" controlTypeID="com.balsamiq.mockups::Image" x="1232" y="602" w="23" h="31" measuredW="128" measuredH="170" zOrder="70" locked="false" isInGroup="-1">
+    <control controlID="133" controlTypeID="com.balsamiq.mockups::Image" x="1232" y="610" w="23" h="31" measuredW="128" measuredH="170" zOrder="70" locked="false" isInGroup="-1">
       <controlProperties>
         <src>./Presentacion%2520Requerimientos/flecha.jpg</src>
       </controlProperties>

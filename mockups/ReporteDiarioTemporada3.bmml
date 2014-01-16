@@ -31,10 +31,10 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="27" controlTypeID="com.balsamiq.mockups::Title" x="427" y="24" w="-1" h="-1" measuredW="262" measuredH="43" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::Title" x="307" y="24" w="-1" h="-1" measuredW="548" measuredH="43" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <color>2101837</color>
-        <text>Reporte%20Diario</text>
+        <text>Reporte%20Diario%20por%20Temporada</text>
       </controlProperties>
     </control>
     <control controlID="28" controlTypeID="com.balsamiq.mockups::Label" x="620" y="87" w="-1" h="-1" measuredW="69" measuredH="21" zOrder="6" locked="false" isInGroup="-1">

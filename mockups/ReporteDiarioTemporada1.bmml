@@ -31,40 +31,40 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="21" controlTypeID="com.balsamiq.mockups::Title" x="427" y="24" w="-1" h="-1" measuredW="262" measuredH="43" zOrder="5" locked="false" isInGroup="-1">
-      <controlProperties>
-        <color>2101837</color>
-        <text>Reporte%20Diario</text>
-      </controlProperties>
-    </control>
-    <control controlID="22" controlTypeID="com.balsamiq.mockups::Label" x="620" y="87" w="-1" h="-1" measuredW="69" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::Label" x="620" y="87" w="-1" h="-1" measuredW="69" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Temporada%3A</text>
       </controlProperties>
     </control>
-    <control controlID="23" controlTypeID="com.balsamiq.mockups::ComboBox" x="700" y="85" w="-1" h="-1" measuredW="256" measuredH="24" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::ComboBox" x="700" y="85" w="-1" h="-1" measuredW="256" measuredH="24" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <text>2DA%20TEMPORADA%20DE%20LLUVIAS%202013%20</text>
       </controlProperties>
     </control>
-    <control controlID="24" controlTypeID="com.balsamiq.mockups::SubTitle" x="396" y="198" w="-1" h="-1" measuredW="308" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::SubTitle" x="396" y="198" w="-1" h="-1" measuredW="308" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
         <text>1.%20Resumen%20de%20Emergencias</text>
       </controlProperties>
     </control>
-    <control controlID="25" controlTypeID="com.balsamiq.mockups::HelpButton" x="960" y="88" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="9" locked="false" isInGroup="-1"/>
-    <control controlID="26" controlTypeID="com.balsamiq.mockups::HelpButton" x="774" y="834" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="10" locked="false" isInGroup="-1"/>
-    <control controlID="27" controlTypeID="com.balsamiq.mockups::HelpButton" x="958" y="834" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="11" locked="false" isInGroup="-1"/>
-    <control controlID="28" controlTypeID="com.balsamiq.mockups::Button" x="522" y="832" w="-1" h="-1" measuredW="96" measuredH="27" zOrder="12" locked="false" isInGroup="-1">
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::HelpButton" x="960" y="88" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="8" locked="false" isInGroup="-1"/>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::HelpButton" x="774" y="834" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="9" locked="false" isInGroup="-1"/>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::HelpButton" x="958" y="834" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="10" locked="false" isInGroup="-1"/>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Button" x="522" y="832" w="-1" h="-1" measuredW="96" measuredH="27" zOrder="11" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Enviar%20Email</text>
       </controlProperties>
     </control>
-    <control controlID="29" controlTypeID="com.balsamiq.mockups::Image" x="488" y="829" w="27" h="27" measuredW="2800" measuredH="2800" zOrder="13" locked="false" isInGroup="-1">
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Image" x="488" y="829" w="27" h="27" measuredW="2800" measuredH="2800" zOrder="12" locked="false" isInGroup="-1">
       <controlProperties>
         <src>./Presentacion%2520Requerimientos/email.jpg</src>
       </controlProperties>
     </control>
-    <control controlID="30" controlTypeID="com.balsamiq.mockups::HelpButton" x="625" y="836" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="14" locked="false" isInGroup="-1"/>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::HelpButton" x="625" y="836" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="13" locked="false" isInGroup="-1"/>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Title" x="307" y="24" w="-1" h="-1" measuredW="548" measuredH="43" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2101837</color>
+        <text>Reporte%20Diario%20por%20Temporada</text>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>

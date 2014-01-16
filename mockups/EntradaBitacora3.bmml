@@ -125,9 +125,9 @@
         <text>Desbordamiento%20del%20r%EDo%20Magdalena</text>
       </controlProperties>
     </control>
-    <control controlID="28" controlTypeID="com.balsamiq.mockups::Label" x="1167" y="107" w="-1" h="-1" measuredW="124" measuredH="21" zOrder="27" locked="false" isInGroup="-1">
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Label" x="1247" y="107" w="-1" h="-1" measuredW="48" measuredH="21" zOrder="27" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Persona%20que%20reporta%3A</text>
+        <text>Usuario%3A</text>
       </controlProperties>
     </control>
     <control controlID="29" controlTypeID="com.balsamiq.mockups::TextInput" x="1306" y="105" w="153" h="-1" measuredW="140" measuredH="27" zOrder="28" locked="false" isInGroup="-1">
